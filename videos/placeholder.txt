@@ -1,4 +1,0 @@
-git clone https://github.com/akshsach017/Polygon-Annotation-for-Traffic-Segregation.git
-cd Polygon-Annotation-for-Traffic-Segregation
-
-mkdir videos
